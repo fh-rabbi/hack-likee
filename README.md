@@ -28,7 +28,7 @@ type  .....
 :point_left:Open a New Session==>
 type
 
-- $./ngrok http:8080
+- $./ngrok http 8080
 
 # Then copy ngrok link and send to your victims...
 
