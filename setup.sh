@@ -4,6 +4,7 @@ pkg install php -y
 cd $HOME
 git clone https://github.com/fh-rabbi/ngrok
 cd $HOME
+chmod +x ngrok
 rm LICENSE
 rm README.md
 cd $HOME/hack-likee
