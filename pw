@@ -1,0 +1,4 @@
+clear
+sleep 1.0
+cd $HOME/hack-likee
+cat pass.txt
